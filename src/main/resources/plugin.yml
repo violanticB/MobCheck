@@ -1,0 +1,4 @@
+name: MobCheck
+version: 1.0
+main: net.violantic.mob.MobPlugin
+description: Gets the name of target mobs.
